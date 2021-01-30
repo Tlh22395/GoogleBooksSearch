@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,WACE,aACF,CAFA,mBACE,cACF,CAFA,eACE,WACF,CAEA,yBACE,eACE,kBACF,CACF,CARA,QACE,eACF,CACA,IACE,WAAY,CACZ,WACF","file":"main.563625f8.chunk.css","sourcesContent":[".navbar {\n  border-radius: 0;\n}\nimg {\n  height: 50px;\n  width: 152px;\n}\n"]}
